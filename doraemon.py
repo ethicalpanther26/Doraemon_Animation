@@ -1,7 +1,7 @@
 import turtle
 import os
 from turtle import*
-
+# Note py file and song file must be in one folder 
 file = "doraemon.mp3"
 os.system(file)
 
