@@ -1,2 +1,2 @@
 # Doraemon_Animation
-Doraemon animation usng turtle in python
+Doraemon animation using turtle in python
